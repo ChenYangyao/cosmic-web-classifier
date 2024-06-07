@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: cosmic_web_classifier
+Version: 1.0.0
+Summary: A Python package for classifying cosmic web structures
+Author-email: Yangyao Chen <yangyaochen.astro@foxmail.com>
+Project-URL: Repository, https://github.com/ChenYangyao/cosmic_web_classifier.git
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyhipp
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pytest>=7.0.0
+
 # CosmicWebClassifier - A Python package for classifying cosmic web structures
 
 [![Last commit](https://img.shields.io/github/last-commit/ChenYangyao/cosmic_web_classifier/master)](https://github.com/ChenYangyao/cosmic_web_classifier/commits/master)
