@@ -1,4 +1,0 @@
-pyhipp
-numpy
-matplotlib
-pytest>=7.0.0
