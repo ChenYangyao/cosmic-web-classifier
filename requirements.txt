@@ -1,4 +1,3 @@
 pyhipp
-numpy
-importlib_resources
 pytest
+flake8
