@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cosmic-web-classifier"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Yangyao Chen", email="yangyaochen.astro@foxmail.com" },
 ]
