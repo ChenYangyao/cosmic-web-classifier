@@ -39,3 +39,7 @@ See the Jupyter notebooks under `docs/`.
 If you use this package in your research, please cite the following papers:
 - Huiyuan Wang et al. 2016, ApJ 831, 164 ([https://arxiv.org/abs/1608.01763](https://arxiv.org/abs/1608.01763))
 - Yangyao Chen et al. 2020, ApJ, 899, 81 ([https://arxiv.org/abs/2003.05137](https://arxiv.org/abs/2003.05137))
+
+## Acknowledgements
+
+The examples in this repository are based on the particle-mesh code [PMWD](https://github.com/eelregit/pmwd) (Yin Li, et al.). 
